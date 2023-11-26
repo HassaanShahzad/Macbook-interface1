@@ -133,6 +133,7 @@ padding-left: 10px;
     user-select: none;
 }
 .ab {
+    margin-right: 29px;
     text-align: center;
     font-size: 47px !important;
     color: white !important;
@@ -140,6 +141,7 @@ padding-left: 10px;
 
 }
 .ab1 {
+   margin-right: 25px;
     text-align: center;
     font-size: 14px;
     color: white !important;
