@@ -166,8 +166,9 @@ padding-top: 25px !important;
     color: #001AFF;
 }
 .ab6 {
+    width: 100% !important;
     border: 0px;
-padding: 14px !important;
+padding: 12px !important;
 background-color: white;
     border-radius: 5px;
     padding: 8px;
